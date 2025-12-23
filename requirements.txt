@@ -3,6 +3,10 @@ streamlit==1.39.0
 pandas==2.2.3
 numpy==1.26.4
 matplotlib==3.9.2
+#API
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
 
 # Web Scraping
 selenium==4.27.1
