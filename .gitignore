@@ -1,12 +1,7 @@
 # =========================
 # DATA & RESULTS
 # =========================
-*.xlsx
-*.csv
-data/
-datasets/
-results/
-outputs/
+
 
 # =========================
 # MODELS
