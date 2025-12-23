@@ -20,8 +20,8 @@ export default function Hero() {
         </h1>
 
         <p className="text-gray-600 text-lg max-w-3xl mx-auto mb-10">
-          FundWatch AI analyse quotidiennement les performances de vos fonds,
-          détecte les anomalies en temps réel et projette le risque à 30 jours.
+          FundWatch AI analyse les performances de vos fonds,
+          détecte les anomalies et projette le risque à 30 jours ,comme elle met à votre dispostion un système de recommendation.
         </p>
 
         <div className="flex justify-center gap-4">
