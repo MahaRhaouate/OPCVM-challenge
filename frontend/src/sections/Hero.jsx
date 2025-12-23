@@ -28,7 +28,7 @@ export default function Hero() {
 
           {/* 🔴 BOUTON DASHBOARD (corrigé) */}
           <button
-  onClick={() => window.location.href = "http://localhost:8501"}
+  onClick={() => window.location.href = "https://opcvm-streamlit-gre7.onrender.com"}
   className="bg-black text-white px-6 py-3 rounded-lg"
 >
   Explorer le Dashboard →
